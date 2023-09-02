@@ -8,3 +8,5 @@ Run the program, click  Select File got to the `game.exe` folder and select it.
 If you want to enable *10bit* click on the checkbox
 
 Click Create Resgistry Entry to Enable it
+# Download
+***https://github.com/ramonsantana/AutoHDR-Enabler/releases***
